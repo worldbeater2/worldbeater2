@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @worldbeater2
 - 👀 I’m interested in ... creative ideas, payments, anything mind blowing..Im in !
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python, JavaScript 
 - 💞️ I’m looking to collaborate on ... anything, suprise me . 
 - 📫 How to reach me ... realdudization@gmail.com
 
